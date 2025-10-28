@@ -94,24 +94,6 @@ Stir in tomatoes, rice, seasoning; heat through.
 
 ---
 
-## 🧄 Beef & Barley Soup
-**Ingredients:**  
-- 1 lb chuck roast, cubed  
-- 1 tbsp oil  
-- 1 onion, diced  
-- 3 carrots, chopped  
-- 2 celery stalks, chopped  
-- ½ cup pearl barley  
-- 6 cups beef broth  
-- Bay leaf, thyme, salt, pepper  
-
-**Instructions:**  
-Brown beef, remove.  
-Sauté veggies; add barley, broth.  
-Return beef; simmer 1 hour until tender.  
-
----
-
 ## 🍝 Italian Meatball Soup
 **Ingredients:**  
 - 1 lb mini meatballs  
