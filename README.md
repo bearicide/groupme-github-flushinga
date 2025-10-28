@@ -12,7 +12,7 @@ This is where you check out the soups in rotation, pick your favorite, and vote 
 ---
 
 ## 📂 **View All Recipes**
-📁 [**Flushing A Soup Recipes Folder**](https://drive.google.com/file/d/1Nt4iTNglRCnV2zOzkA4T-C5ruTWlKxSZ/view?usp=sharing)
+📁 [Flushing A Soup Recipes](https://drive.google.com/file/d/1Nt4iTNglRCnV2zOzkA4T-C5ruTWlKxSZ/view?usp=sharing)
 All recipe cards live here. Txt format so everyone plays nice. 
 
 ---
