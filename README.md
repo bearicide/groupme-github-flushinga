@@ -1,7 +1,7 @@
 # 🥣 Flushing A – Soup Line Recipes
 
 Welcome to the **Flushing A Soup Station**.  
-This is where you check out the soups in rotation, pick your favorite, and vote for what hits the menu next week.  
+This is where you check out the soups in rotation, pick your favorite, and vote for what might hit the menu next week.
 
 ---
 
@@ -12,8 +12,8 @@ This is where you check out the soups in rotation, pick your favorite, and vote 
 ---
 
 ## 📂 **View All Recipes**
-📁 [**Flushing A Soup Recipes Folder**](https://drive.google.com/drive/folders/165MwG_4Z9E4Iv1wnvoyshTNBFhfh33ib)  
-All recipe cards live here. Open any one, print it, or just look busy near the soup well.
+📁 [**Flushing A Soup Recipes Folder**](https://drive.google.com/file/d/1Nt4iTNglRCnV2zOzkA4T-C5ruTWlKxSZ/view?usp=sharing)
+All recipe cards live here. Txt format so everyone plays nice. 
 
 ---
 
@@ -153,6 +153,9 @@ Garnish with basil.
 - Double-check the label before ladling — Beef Barley ≠ Tomato.  
 - Vote. Soup democracy depends on you.  
 ---
+
+Questions?
+matt.baier86@gmail.com
 
 > “If it’s good, serve it. If it’s bad, blame Matt."
 > — *Kitchen wisdom, 2025*
