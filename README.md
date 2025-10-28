@@ -1,4 +1,4 @@
-# 🥣 Flushing A – Soup Line Recipes
+# 🥣 Flushing A – Soup Recipes and Voting
 
 Welcome to the **Flushing A Soup Station**.  
 This is where you check out the soups in rotation, pick your favorite, and vote for what might hit the menu next week.
